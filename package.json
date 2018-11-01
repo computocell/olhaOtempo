@@ -1,0 +1,23 @@
+{
+  "name": "olhaotempo",
+  "version": "1.0.0",
+  "description": "App em node para consulta do tempo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/computocell/olhaOtempo.git"
+  },
+  "keywords": [
+    "previsao;",
+    "tempo"
+  ],
+  "author": "Jefferson Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/computocell/olhaOtempo/issues"
+  },
+  "homepage": "https://github.com/computocell/olhaOtempo#readme"
+}
